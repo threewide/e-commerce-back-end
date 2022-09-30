@@ -25,6 +25,10 @@ To Install and begin working on the E-Commerce Back End follow these easy steps:
 
 ![npm Installation](./assets/images/npm-installation.png)
 
+7. Now to create the database open the MySQL Command Shell using the command: '<b>mysql -u root -p</b>'
+8. Enter the password: '<b>password</b>'
+9. Run the command
+
 ## Usage
 
 To run the application open the project folder in the terminal
