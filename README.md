@@ -27,7 +27,11 @@ To Install and begin working on the E-Commerce Back End follow these easy steps:
 
 7. Now to create the database open the MySQL Command Shell using the command: '<b>mysql -u root -p</b>'
 8. Enter the password: '<b>password</b>'
-9. Run the command
+9. Run the command '<b>source ./db/schema.sql</b>' to create the database and tables
+10. Now exit MySQL using '<b>\q</b>'
+11. Enter the command '<b>npm run seed</b>' to populate the database with data
+
+This initializes the project to a state of being both ready to be ran (with the command '<b>npm start</b>') and worked on as a developer!
 
 ## Usage
 
